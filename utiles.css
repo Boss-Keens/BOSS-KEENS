@@ -15,6 +15,9 @@ This font is only for Title "Boss Keen's" */
 .s-between{
 	justify-content: space-between;
 }
+.js-center{
+	justify-content:center;
+	}
 .hidden {
     display: none;
 }
@@ -29,6 +32,9 @@ This font is only for Title "Boss Keen's" */
 }
 .img-size {
     height: 35px;
+}
+.bg-green {
+	background-color:#51D131 ;
 }
 .bg-black {
     background-color: black;
@@ -70,8 +76,15 @@ This font is only for Title "Boss Keen's" */
 .m-l-25 {
     margin-left: 25px;
 }
+.m-l-60 {
+	margin-left:60px;
+}
 .m-l-15{
     margin-left: 15px;
+}
+.m-auto{
+	margin-left:auto;
+	margin-right:auto;
 }
 .p-0 {
     padding: 0;
